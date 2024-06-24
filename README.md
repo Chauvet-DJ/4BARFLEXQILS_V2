@@ -1,4 +1,4 @@
-# 4BAR Flex Q ILS_V2
+# 4BAR Flex Q ILS V2
 
 ## Software Versions
 
