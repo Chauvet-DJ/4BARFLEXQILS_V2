@@ -2,6 +2,15 @@
 
 ## Software Versions
 
+[V3.01a - 4BAR Flex Q ILS](https://github.com/Chauvet-DJ/4BARFLEXQILS_V2/blob/dadb2884dea501b2c19a1ec81f4ecdd92b32564e/Firmware/V3.01a_06-30-24.zip)
+- **NOTE: Use this version for products with serial number 0424001203 and up.**
+- Changed the D-Fi detection method from voltage detection to software detection
+- Updated the software file name
+
+[V3.01b - 4BAR Flex Q ILS](https://github.com/Chauvet-DJ/4BARFLEXQILS_V2/blob/dadb2884dea501b2c19a1ec81f4ecdd92b32564e/Firmware/V3.01b_06-30-24.zip)
+- **NOTE: Use this version for products with serial number 0424001202 and below.**
+- Changed the D-Fi detection method from voltage detection to software detection
+
 [V3.0 - 4BAR Flex Q ILS](https://github.com/Chauvet-DJ/4BARFLEXQILS_V2/blob/90d23e3e99fbf1181da5e69e937c03d2c5b6ed7e/Firmware/V3.0_06-21-24.zip)
 - Updated file name
 
